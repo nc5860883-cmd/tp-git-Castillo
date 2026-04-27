@@ -1,7 +1,7 @@
 # Trabajo Práctico N°5 - Git y GitHub
-En este repositorio creado para el TP°5 de la materia de taller de programación veremos el uso de git y para poner en práctica el uso de GitHub.
+En este repositorio creado para el TP°5 de la materia de taller de programación veremos el uso de Git y a su vez el uso de GitHub.
 Aquí se guardará la informacion de la carpeta .git y sus cambios.
-Sirve para aprender como se manejan las versiones y configuraciones.
+Esto sirve para aprender como se manejan las versiones y configuraciones.
 
 # Carpeta .git
 Su función es almacenar la información del repositorio, como los cambios y configuraciones.
