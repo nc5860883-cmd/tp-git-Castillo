@@ -5,5 +5,5 @@ Aquí se guardará la informacion de la carpeta .git y sus cambios.
 
 Esto sirve para aprender como se manejan las versiones y configuraciones.
 
-# Carpeta  .git
+# Carpeta .git
 Su función es almacenar la información del repositorio, como los cambios y configuraciones.
